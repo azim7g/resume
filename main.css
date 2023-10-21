@@ -713,3 +713,11 @@ table td {
 .highlight .il {
   color: #099;
 }
+
+.interests {
+  display: flex;
+}
+
+.interests li {
+  margin-right: 30px;
+}
