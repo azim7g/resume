@@ -93,7 +93,8 @@ a {
 }
 
 a:visited {
-  color: #1756a9;
+  /* color: #1756a9; */
+  color: #2a7ae2;
 }
 
 a:hover {
