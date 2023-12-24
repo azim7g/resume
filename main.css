@@ -717,6 +717,7 @@ table td {
 
 .interests {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .interests li {
